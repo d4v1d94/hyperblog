@@ -14,7 +14,7 @@ body{
     margin: 110px 10px 10px 10px;
     text-align: center;
     width: 70%;
-    padding: 15px;
+    padding: 0px;
     border: 1px solid #000 ;
     box-sizing: border-box;
     border-radius: 15px;
@@ -24,4 +24,16 @@ body{
     font-size: 38px;
     color: gold;
     text-shadow: 2px 2px 2px #000;
+}
+.header{
+    font-size: 45px;
+    border: 1px solid #000;
+    padding: 0px;
+    background: #190781;
+    color: #fff;
+    border-radius: 15px 15px 0px 0px;
+    text-shadow: 2px 2px 2px #000;
+}
+h5{
+    margin: 0;
 }
