@@ -1,2 +1,3 @@
 let names = prompt('tell me your name');
-document.getElementById('result').innerHTML += ` ${names}`
+const divs = document.querySelectorAll('.name');
+divs.forEach(div => div.innerHTML += names);

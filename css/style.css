@@ -1,3 +1,26 @@
 body{
-    background-color: #c3c3c3;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+.container{
+    background-color: #c3c3c7;
+    margin: 110px 10px 10px 10px;
+    text-align: center;
+    width: 70%;
+    padding: 15px;
+    border: 1px solid #000 ;
+    box-sizing: border-box;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 2px #000;
+}
+.title{
+    font-size: 38px;
+    color: gold;
+    text-shadow: 2px 2px 2px #000;
 }
