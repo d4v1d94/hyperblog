@@ -19,6 +19,7 @@ body{
     box-sizing: border-box;
     border-radius: 15px;
     box-shadow: 2px 2px 2px 2px #000;
+    line-height: 40px;
 }
 .title{
     font-size: 38px;
