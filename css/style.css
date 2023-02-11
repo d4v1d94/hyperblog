@@ -31,10 +31,18 @@ body{
     border: 1px solid #000;
     padding: 0px;
     background: #190781;
-    color: #000fff;
+    color: #fff;
     border-radius: 15px 15px 0px 0px;
     text-shadow: 2px 2px 2px #000;
+    height: 100px;
 }
 h5{
     margin: 0;
+}
+
+.logo{
+    width: 10%;
+    float: left;
+    height: auto;
+    border-radius: 50%;
 }
