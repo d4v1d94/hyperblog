@@ -50,7 +50,7 @@ h5{
     padding: 10px;
     color: #fff;
     background-color: #3a3939;
-
+    border-radius: 0 0 13px 13px;
 }
 .header h3{
     font-size: 10px;
