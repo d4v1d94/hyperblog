@@ -38,3 +38,9 @@ body{
 h5{
     margin: 0;
 }
+footer{
+   padding: 10px;
+   color: #fff;
+   background: #c3c3c3;
+   font-size: 25px;
+}
