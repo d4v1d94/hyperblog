@@ -9,5 +9,6 @@ In Git we can found:
 * Git tricks
 * Created By Juan
 * examples in windows, linux & mac
+* available for all ages
 
 **👏🤩GIT & GITHUB are AWESOMES 🤩👏 **
