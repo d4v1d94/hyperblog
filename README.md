@@ -8,5 +8,6 @@ In Git we can found:
 * good practice
 * Git tricks
 * Created By Juan
+* examples in windows, linux & mac
 
 **👏🤩GIT & GITHUB are AWESOMES 🤩👏 **
